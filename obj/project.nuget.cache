@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "xGUYKRBXv9n0x8wTAwYf8S4flJiVhFXq6laUhTCtwptH9mN0/ghg9IWq4KGhtPAU6BiqDIr/R3pfAE5KuEWgaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Downloads\\20424110 (3)\\20424110\\Tests-Data-Driven.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codecoverage\\17.0.0\\microsoft.codecoverage.17.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.test.sdk\\17.0.0\\microsoft.net.test.sdk.17.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.0.0\\microsoft.testplatform.objectmodel.17.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.testplatform.testhost\\17.0.0\\microsoft.testplatform.testhost.17.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\nunit3testadapter\\4.1.0\\nunit3testadapter.4.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\selenium.webdriver.chromedriver\\98.0.4758.10200\\selenium.webdriver.chromedriver.98.0.4758.10200.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\spreadsheetlight\\3.5.0\\spreadsheetlight.3.5.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
