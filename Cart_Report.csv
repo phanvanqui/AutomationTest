@@ -1,0 +1,8 @@
+Current Password,New Password,Confirm New Password,result,status
+http://supermarketnhom11.somee.com/Products.aspx?CatId=1,2,2,success
+http://supermarketnhom11.somee.com/Products.aspx?CatId=2,1,1,success
+http://supermarketnhom11.somee.com/Products.aspx?CatId=3,3,3,success
+http://supermarketnhom11.somee.com/Products.aspx?CatId=4,4,4,success
+http://supermarketnhom11.somee.com/Products.aspx?CatId=5,5,5,success
+,0,0,success
+,0,0,success

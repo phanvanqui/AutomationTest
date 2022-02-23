@@ -14,6 +14,7 @@ using System.IO;
 
 namespace Tests_Data_Driven
 {
+    // kiểm tra các trường hợp nhập các giá trị của tài khoản hoặc mật khẩu
     class Login
     {
         WebDriver driver;
@@ -52,6 +53,12 @@ namespace Tests_Data_Driven
         public void TestCalculatorWebApp(string username, string password, string expectedResult)
         {
             driver.Navigate().GoToUrl("http://www.supermarketnhom11.somee.com/Login.aspx");
+
+            //IWebElement logout = driver.FindElement(By.Id("Header_LoginViewHeader_LoginStatus1"));
+            //if (logout != null)
+            //{
+            //    logout.Click();
+            //}
 
             textBoxUsername = driver.FindElement(By.Id("UserName"));
             textBoxPassword = driver.FindElement(By.Id("Password"));
