@@ -15,6 +15,7 @@ using System.IO;
 
 namespace Tests_Data_Driven
 {
+    // kiểm tra các trường hợp nhập thay đổi mật khẩu người dùng
     class PasswordChanging
     {
         WebDriver driver;
